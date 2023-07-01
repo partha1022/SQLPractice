@@ -1,4 +1,4 @@
 # SQLPractice
 
-## https://github.com/smpetersgithub/AdvancedSQLPuzzles
-## https://advancedsqlpuzzles.com/
+#### https://github.com/smpetersgithub/AdvancedSQLPuzzles
+#### https://advancedsqlpuzzles.com/
